@@ -1,6 +1,6 @@
 # ProxyBrokerSort
 
-A Sort Class for ProxyBroker Results by Speed
+Here a little PHP Script to Sort Results from the Python App „ProxyBroker“ by Speed
 
 # Example
 
