@@ -4,10 +4,8 @@ A Sort Class for ProxyBroker Results by Speed
 
 # Example
 
-<?php
 
 include 'ProxyBrokerSort.php';
-
 
 $inst = new ProxyBrokerSort();
 
